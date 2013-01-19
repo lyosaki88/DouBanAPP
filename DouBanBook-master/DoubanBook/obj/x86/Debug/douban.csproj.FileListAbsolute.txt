@@ -1,0 +1,10 @@
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\bin\Debug\DoubanBook.exe
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\bin\Debug\DoubanBook.pdb
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\obj\x86\Debug\DoubanBook.BookDetail.resources
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\obj\x86\Debug\DoubanBook.Home.resources
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\obj\x86\Debug\DoubanBook.Properties.Resources.resources
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\obj\x86\Debug\DoubanBook.exe
+D:\箬\专业课\应用程序设计\DouBanBook-master\DoubanBook\obj\x86\Debug\DoubanBook.pdb
